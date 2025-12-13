@@ -1,4 +1,4 @@
-package fr.adriencaubel.tstoddd.domain;
+package fr.adriencaubel.tstoddd.domain.model.article;
 
 import jakarta.persistence.*;
 import lombok.Getter;
